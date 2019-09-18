@@ -1,6 +1,4 @@
-# vue-test-todo
-
-> test
+# vue-example-toDo
 
 ## Build Setup
 
